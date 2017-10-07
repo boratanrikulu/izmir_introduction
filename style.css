@@ -1,0 +1,65 @@
+body
+	{
+		background-color: #FFF4D7;
+	}
+h6
+	{
+		text-align: right;
+	}
+header
+	{
+		text-align: center;
+	}
+.img-eve
+	{
+		width: 30%;
+	}
+.img-saat
+	{
+		width: 11%;
+	}
+.line
+	{
+		width: 44%;
+		margin: 3px;
+	}
+.div-int-msc
+	{
+		margin: 30px;
+		text-align: right;
+		max-width: 42%
+	}
+.ul-int	
+	{
+		list-style-type: none;
+		margin: 3%;
+	}
+.img-flag
+	{
+		vertical-align: middle;
+		height:5%;
+		width:5%;
+	}
+.div_main
+	{
+		margin-top: -0.5%;
+		margin-left: -0.5%;
+		max-width: 41%;
+		text-align: right;
+	}
+.p-prgrph
+	{
+		text-align: right;"
+	}
+footer
+	{
+		margin-top: -0.5%;
+		margin-left: -0.5%;
+		margin-bottom: 2%;
+		max-width: 41%;
+		text-align: right;
+	}
+textarea
+	{
+		text-align: right;
+	}
