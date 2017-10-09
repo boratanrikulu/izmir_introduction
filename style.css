@@ -1,6 +1,7 @@
 body
 	{
 		background-color: #FFF4D7;
+
 	}
 h6
 	{
@@ -9,6 +10,10 @@ h6
 header
 	{
 		text-align: center;
+	}
+.main
+	{
+		margin-right: 350px;
 	}
 .img-eve
 	{
@@ -42,13 +47,27 @@ header
 .div_main
 	{
 		margin-top: 5px;
-		margin-left: 5px;
+		margin-left: -0px;
 		max-width: 600px;
 		text-align: right;
 	}
 .p-prgrph
 	{
 		text-align: right;"
+	}
+.img_gun
+	{
+		margin-right: -400px;
+		margin-bottom: +200px;
+		height: 500px;
+		float: right;
+	}
+.img_izmir_giris
+	{
+		margin-right: -500px;
+		margin-top: +50px;
+		height: 300px;
+		float: right;
 	}
 footer
 	{
