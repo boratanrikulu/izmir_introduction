@@ -21,11 +21,9 @@ a
 	color: #3b0000;
 	text-decoration: none;
 	}
-hr 	
-	{
-	color: #3b0000;
-
-	}
+hr{
+  border-top: solid #3b0000 3px;
+}
 .main
 	{
 		margin-right: 350px;
