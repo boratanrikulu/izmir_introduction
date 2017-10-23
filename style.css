@@ -7,9 +7,24 @@ h6
 	{
 		text-align: right;
 	}
-header
+.eve
 	{
 		text-align: center;
+	}
+header
+	{
+		max-width: 600px;
+		color: #3b0000;
+	}
+a 	
+	{
+	color: #3b0000;
+	text-decoration: none;
+	}
+hr 	
+	{
+	color: #3b0000;
+
 	}
 .main
 	{
