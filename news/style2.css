@@ -66,21 +66,14 @@ hr
 	}
 .p-prgrph
 	{
-		text-align: right;"
+		text-align: center;
+		margin: 50px;
+		font: sans-serif;
+		font-size: 40px;
+		color: #3b0000;
+		max-width: 600px;
 	}
-.img_gun
-	{
-		margin-right: -800px;
-		margin-bottom: +200px;
-		height: 500px;
-		float: left;
-	}
-.img_izmir_giris
-	{
-		margin-right: -400px;
-		margin-top: +50px;
-		height: 300px;
-		float: right;
+
 	}
 footer
 	{
