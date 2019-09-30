@@ -1,6 +1,6 @@
 body
 	{
-		background-color: #FFF4D7;
+		background-color: #FFF4D6;
 
 	}
 h6
@@ -14,16 +14,16 @@ h6
 header
 	{
 		max-width: 600px;
-		color: #3b0000;
+		color: #3b0001;
 	}
 a 	
 	{
-	color: #3b0000;
+	color: #3b0001;
 	text-decoration: none;
 	}
 hr	
 	{
- 	border-top: solid #3b0000 3px;
+ 	border-top: solid #3b0001 3px;
 	}
 .main
 	{
@@ -70,7 +70,7 @@ hr
 		margin: 50px;
 		font: sans-serif;
 		font-size: 40px;
-		color: #3b0000;
+		color: #3b0001;
 		max-width: 600px;
 	}
 
